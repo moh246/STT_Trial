@@ -1,0 +1,9 @@
+torchaudio
+torch
+transformers
+tiktoken
+sentencepiece
+protobuf
+blobfile
+tiktoken
+soundfile
